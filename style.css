@@ -1,0 +1,67 @@
+.heading
+{
+    font-size:30px ;
+    width: 100%;
+    margin: 0px;
+    color: darkblue;
+}
+
+.note
+{
+    color: black;
+    background-color:cyan;
+    font-size: 17px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 10px 10px deeppink;
+}
+
+#speed
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 10px 10px deeppink;
+}
+
+#volume
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+#play
+{
+    text-align: center;
+    height: 70px;
+    width: 90px;
+    font-size: 30px;
+    color: crimson;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 25px;
+    margin-top: 50px;
+}
